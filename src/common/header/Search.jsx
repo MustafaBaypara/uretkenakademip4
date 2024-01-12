@@ -13,7 +13,7 @@ const Search = ({ CartItem }) => {
     <>
       <section className='search'>
         <div className='container c_flex'>
-          <Link to='/' className='logo width '>
+          <Link to='/uretkenakademip4' className='logo width '>
             BayStore
           </Link>
 

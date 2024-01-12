@@ -50,7 +50,7 @@ function App() {
       <Router>
         <Header CartItem={CartItem} />
         <Switch>
-          <Route path='/' exact>
+          <Route path='/uretkenakademip4' exact>
             <Pages
               productItems={productItems}
               addToCart={addToCart}
